@@ -7,8 +7,10 @@ This is Hako's den. Here I compile all sorts of LN-related and even non-LN relat
 ## Compilation of stuff
 <details> 
   <summary> Book list </summary>
-   * [Saihate no Paladin/The Faraway Paladin](/docs/lns/saihatenopaladin)
-   * [Boogiepop](/docs/lns/boogiepop)
+   <ul>
+     <li>  [Saihate no Paladin/The Faraway Paladin](/docs/lns/saihatenopaladin) </li>
+     <li>  [Boogiepop](/docs/lns/boogiepop) </li>
+  </ul>
 </details>
 
 * [Book list](/docs/lns.md)
