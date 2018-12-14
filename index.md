@@ -3,12 +3,12 @@
 This is Hako's den. Here I compile all sorts of LN-related and even non-LN related stuff. Everything from book impressions, reviews to character relationship diagrams. It's basically a blog of sorts you could say. 
 
 
-## Light novels
+### Light novels
 
 I'm not gonna explain here how light novels originated. If you're here now, you probably already know. I can however tell you how to know if a book counts as a light novel or not. The main rule is that it has to be published in a light novel label, such as Dengeki Bunko or Kodansha Ranobe Bunko. They almost always have anime style illustrations, and feel very anime-like. The target audience is young adults. So LNs do fit into YA category. It isn't always that easy to tell if a book is a light novel or not. There are some labels that publish both LNs and general literature(regular books basically). Rather their books are neither LNs nor general literature. Kodansha Box is one of such. Since Monogatari series published by Kodansha Box is usually considered a light novel - despite the fact they are published in the (ugly) BOX format - the whole label is often considered a borderline LN label. 
 
 
-## Light bungei
+### Light bungei
 
 Lately, perhaps due to the LN publishers narrowing down the type of stories that get published as light novels more and more - to a point where it's almost exclusively LITRPG, fluff, romcom and alike, a cross of sorts between light novels and general literature has been born. They're often called "kyarakuta noberu"(character novels) or  "raito bungei"(light literature). It is a relatively new classification. And perhaps one that's somewhat unnecessary due to these types of books often being marketed as regular literature. I'll use the terms **"light bungei"** and **"light literature"** interchangeably. 
 
@@ -21,6 +21,6 @@ Lately, perhaps due to the LN publishers narrowing down the type of stories that
 An example of a light bungei label would be Shinchou Bunko Nex. 
 
 
-## SF books
+### SF books
 
 Although some books are widely considered as LNs in the community they're simply published as SF books. Ergo they count as general literature. Or perhaps light bungei if you want to call them that. Examples are books published by Hayakawa Shobo. Seikai series is generally considered a light novel despite the lack of illustrations and being considered general literature by the publisher. 
