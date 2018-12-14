@@ -5,7 +5,15 @@ This is Hako's den. Here I compile all sorts of LN-related and even non-LN relat
 ## Compilation of stuff
 
 * [Light novel list](/docs/lns.md)
+* [Unorganized thoughts](/docs/log.md)
 
+
+<details>
+ <summary>Summary</summary>
+```js
+const x = 1
+```
+</details>
 
 ## Wiki of sorts
 
@@ -13,8 +21,6 @@ This is Hako's den. Here I compile all sorts of LN-related and even non-LN relat
 
 I'm not gonna explain here how light novels originated. If you're here, you probably already know. I can however tell you how to know if a book counts as a light novel or not. The main rule is that it has to be published in a light novel label, such as Dengeki Bunko or Kodansha Ranobe Bunko. They almost always have anime style illustrations, and feel very anime-like. The target audience is young adults. So LNs do fit into YA category. It isn't always that easy to tell if a book is a light novel or not. There are some labels that publish both LNs and general literature(regular books basically). Rather their books are neither LNs nor general literature. Kodansha Box is one of such. Since Monogatari series published by Kodansha Box is usually considered a light novel - despite the fact they are published in the (ugly) BOX format - the whole label is often considered a borderline LN label. 
 
-
->! Spoiler text
 
 ### Light bungei
 
