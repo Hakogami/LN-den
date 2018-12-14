@@ -1,6 +1,6 @@
 # 最果てのパラディン/Saihate no Paladin/The Faraway Paladin
 
-[Imgur](https://i.imgur.com/cy6i2cI.jpg?1)
+<a href="https://imgur.com/cy6i2cI"><img src="https://i.imgur.com/cy6i2cI.jpg?1" title="source: imgur.com" /></a>
 
 ### Synopsis : 
 > In a city of the dead, long since ruined and far from human civilization, lives a single human child. His name is Will, and he's being raised by three undead: the hearty skeletal warrior, Blood; the graceful mummified priestess, Mary; and the crotchety spectral sorcerer, Gus. The three pour love into the boy, and teach him all they know. But one day, Will starts to wonder: "Who am I?" Will must unravel the mysteries of this faraway dead man's land, and unearth the secret pasts of the undead. He must learn the love and mercy of the good gods, and the bigotry and madness of the bad. And when he knows it all, the boy will take his first step on the path to becoming a Paladin. "I promised you. It's gonna take a while, but I'll tell you everything. This is the story of the deaths of many heroes. It's the story of how we died, and it's the reason you grew up here."
