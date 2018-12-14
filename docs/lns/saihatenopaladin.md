@@ -18,7 +18,9 @@
 
 #### __The epic tale of a boy that becomes a Paladin in the city of the dead__ 
 
-[Imgur](https://i.imgur.com/cy6i2cI.jpg)
+
+<a href="https://i.imgur.com/cy6i2cI.jpg"><img src="https://i.imgur.com/cy6i2cI.jpg" title="source: imgur.com" /></a>
+
 
 
 Amidst all the crappy imouto fetish light novels involving writing those crappy imouto fetish light novels, all the trashy wish-fulfillment Isekai harem light novels about an all-powerful yet somehow completely beta as fuck male protagonist who makes every single maiden as wet as a drowned rat with a single glance, who in the end may or may not *canonically* or *not so canonically*  load several years worth of man yoghurt into shallow heroines; Amidst all of those utter degeneracies in this darkest of all timelines which we have been destined to live in for whatever crimes we have committed in our past lives, it sometimes comes a work of literature that ever so slightly restores your belief in the light novel industry. The Faraway Paladin is one of those works. 
@@ -33,6 +35,9 @@ Mythology, faith, good and evil, right and wrong, familial love, friendship, sen
 
 An ensemble of lovable characters such as Mary - the obvious mother figure, Blood - the strong father figure, and Gus - the cranky grandfather figure, whose pasts are perhaps just as interesting as William's own story. Having lost their people, their sense of time, unknowing whether humanity is still alive - at least until they find the human baby William that is, they keep fighting a force bigger than themselves. They challenge the Gods and teach William everything they know so one day he can go back into the wilderness of the undead, and search for any remains of humanity. 
 
-[Imgur](https://i.imgur.com/LqnicCP.jpg?1)
+
+<a href="https://i.imgur.com/LqnicCP.jpg?1"><img src="https://i.imgur.com/LqnicCP.jpg?1" title="source: imgur.com" /></a>
+
+
 
 Faraway Paladin has a sense of mystery that I don't want to spoil with my review. I think it's something you, the reader of this review, should experience on your own. It's a work that stands its ground even when it isn't necessarily compared to other Isekai LNs. With its well-written prose that is rare for LNs let alone ones that originated from narou, breath-taking illustrations that resemble oil paintings, it is a work that as a whole stands out in its medium. It's a work that if ever adapted into an anime will restore people's views of Isekai back to when Twelve Kingdoms first aired almost 20 years ago.
