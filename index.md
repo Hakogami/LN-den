@@ -13,8 +13,7 @@ This is Hako's den. Here I compile all sorts of LN-related and even non-LN relat
   </ul>
 </details>
 
-* [Book list](/docs/lns.md)
-* [Unorganized thoughts](/docs/log.md)
+### [Unorganized thoughts](/docs/log.md)
 
 
 
