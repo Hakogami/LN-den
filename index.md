@@ -6,7 +6,7 @@ This is Hako's den. Here I compile all sorts of LN-related and even non-LN relat
 
 ## Compilation of stuff
 <details> 
-  <summary> <h3> Book list </h3> </summary>
+  <summary style = "font-size: 15px" > Book list </summary>
    <ul>
      <li> <a href ="/docs/lns/saihatenopaladin">最果てのパラディン/Saihate no Paladin</a> </li>
      <li> <a href ="/docs/lns/boogiepop"> Boogiepop </a> </li>
