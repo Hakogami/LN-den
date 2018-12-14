@@ -8,13 +8,7 @@ This is Hako's den. Here I compile all sorts of LN-related and even non-LN relat
 * [Unorganized thoughts](/docs/log.md)
 
 
-<details>
- <summary>Summary</summary>
-```js
-const x = 1
-```
-</details>
-
+<p> hako</p>
 ## Wiki of sorts
 
 ### Light novels
