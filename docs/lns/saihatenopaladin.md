@@ -29,7 +29,7 @@ Right from the beginning, Faraway Paladin starts to subvert popular Isekai trope
 
 Mythology, faith, good and evil, right and wrong, familial love, friendship, sense of responsibility. Themes you barely see explored in other Isekai LNs are the core parts of this epic tale of William who'll one day become a Paladin faraway from humanity.
 
-[Imgur](https://i.imgur.com/Z6WrJGl.jpg)
+<a href="https://i.imgur.com/Z6WrJGl.jpg"><img src="https://i.imgur.com/Z6WrJGl.jpg" title="source: imgur.com" /></a>
 
 An ensemble of lovable characters such as Mary - the obvious mother figure, Blood - the strong father figure, and Gus - the cranky grandfather figure, whose pasts are perhaps just as interesting as William's own story. Having lost their people, their sense of time, unknowing whether humanity is still alive - at least until they find the human baby William that is, they keep fighting a force bigger than themselves. They challenge the Gods and teach William everything they know so one day he can go back into the wilderness of the undead, and search for any remains of humanity. 
 
