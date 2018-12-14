@@ -3,8 +3,13 @@
 
 This is Hako's den. Here I compile all sorts of LN-related and even non-LN related stuff. Everything from book impressions, reviews to character relationship diagrams. It's basically a blog of sorts you could say.
 
->! This is a spoiler
-This is a spoiler
+<div class="forum-post">
+    <a href="#hide" class="hide btn" id="hide">Show spoiler</a>
+    <a href="#show" class="show btn" id="show">Hide spoiler</a>
+    <div class="spoiler">
+      <p class="spoiler-content">People die when they are killed!</p>
+    </div>
+</div>
 
 ## Compilation of stuff
 
