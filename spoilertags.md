@@ -6,4 +6,4 @@
     </div>
 </div>
 
-<h1> Hako's real name is span class="spoiler2">Baka</span> </h1>
+<h1> Hako's real name is <span> class="spoiler2">Baka</span> </h1>
