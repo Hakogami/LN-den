@@ -5,7 +5,7 @@ This is Hako's den. Here I compile all sorts of LN-related and even non-LN relat
 
 ## Compilation of stuff
 
-* [Light novel list](/docs/lns.md)
+* [Book list](/docs/lns.md)
 * [Unorganized thoughts](/docs/log.md)
 
 
