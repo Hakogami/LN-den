@@ -9,8 +9,8 @@ This is Hako's den. Here I compile all sorts of LN-related and even non-LN relat
 <details> 
   <summary > Book list </summary>
    <ul>
-     <li> <a href ="/docs/lns/saihatenopaladin">最果てのパラディン/Saihate no Paladin</a> </li>
-     <li> <a href ="/docs/lns/boogiepop"> Boogiepop </a> </li>
+     <li> <a href ="/docs/lns/saihatenopaladin.md">最果てのパラディン/Saihate no Paladin</a> </li>
+     <li> <a href ="/docs/lns/boogiepop.md"> Boogiepop </a> </li>
   </ul>
 </details>
 
