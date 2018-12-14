@@ -84,3 +84,7 @@ body {
   padding: 15px;
 }
 
+
+details {
+  font-size: large;
+}
