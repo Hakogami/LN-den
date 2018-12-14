@@ -2,6 +2,12 @@
 
 This is Hako's den. Here I compile all sorts of LN-related and even non-LN related stuff. Everything from book impressions, reviews to character relationship diagrams. It's basically a blog of sorts you could say. 
 
+## Compilation of stuff
+
+* [Light novel list](/docs/lns)
+
+
+## Wiki of sorts
 
 ### Light novels
 
@@ -23,4 +29,4 @@ An example of a light bungei label would be Shinchou Bunko Nex.
 
 ### SF books
 
-Although some books are widely considered as LNs in the community they're simply published as SF books. Ergo they count as general literature. Or perhaps light bungei if you want to call them that. Examples are books published by Hayakawa Shobo. Seikai series is generally considered a light novel despite the lack of illustrations and being considered general literature by the publisher. 
+Although some books are widely considered as LNs in the community they're simply published as SF books. Ergo they count as general literature. Or perhaps light bungei if you want to call them that. Examples are books published by Hayakawa Shobo. Seikai series is generally considered a light novel despite the lack of illustrations and being considered general literature by the publisher. So Seikai series is something that falls inbetween LNs and general literature. 
