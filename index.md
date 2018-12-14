@@ -5,14 +5,16 @@ This is Hako's den. Here I compile all sorts of LN-related and even non-LN relat
 
 
 ## Compilation of stuff
+<details> 
+  <summary> Book list </summary>
+   * [Saihate no Paladin/The Faraway Paladin](/docs/lns/saihatenopaladin)
+   * [Boogiepop](/docs/lns/boogiepop)
+</details>
 
 * [Book list](/docs/lns.md)
 * [Unorganized thoughts](/docs/log.md)
 
-<details> 
-  <summary>Q1: What is the best Language in the World? </summary>
-   A1: JavaScript 
-</details>
+
 
 
 ## Wiki of sorts
