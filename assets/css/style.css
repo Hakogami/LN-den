@@ -4,3 +4,17 @@
 body {
   background-color: lightblue;
 }
+
+
+.spoiler {
+  color: #000;
+  background: #000;
+  
+  &::-moz-selection {
+    color: #fff;
+  }
+  
+  &::selection {
+    color: #fff;
+  }
+}
