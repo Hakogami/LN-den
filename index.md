@@ -1,7 +1,3 @@
-<head>
-<link href="assets/css/style.scss" rel="stylesheet"></link>
-</head>
-
 
 # Welcome to Hako's den
 
