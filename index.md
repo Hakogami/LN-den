@@ -14,3 +14,5 @@ Lately, perhaps due to the LN publishers narrowing down the type of stories that
 
 
 **Light literature often has older characters**. Not always but often characters in light literature are older than light novels. Not to mention light literature has a broader target audience. Light novels are usually for people in their 10s and early 20s while light literature extends to 30s and beyond. This isn't completely true however since LNs such as Death March is read by a lot of people in their 40s. It doesn't mean they're "mature" stories though unlike what light bungei tries to go for. 
+
+An example of a light bungei label would be Shinchou Bunko Nex. 
