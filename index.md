@@ -6,14 +6,7 @@ This is Hako's den. Here I compile all sorts of LN-related and even non-LN relat
 
 ## Compilation of stuff
 
-<details> 
-  <summary > Book list </summary>
-   <ul>
-     <li> <a href = '/docs/lns/saihatenopaladin.md' >最果てのパラディン/Saihate no Paladin</a> </li>
-     <li> <a href ="/docs/lns/boogiepop.md"> Boogiepop </a> </li>
-  </ul>
-</details>
-
+### Book List(/docs/lns.md)
 
 ### [Unorganized thoughts](/docs/log.md)
 
