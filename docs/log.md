@@ -13,7 +13,6 @@ Its representation of Japanese use feels a lot better than modern LNs and anime.
 ### Boogiepop volume 2 (LN) - 12/12/18
 
 > Finished volume 2 of Boogiepop. One of the few cases the second volume is on par with the first one.
-
 Structure-wise it still keeps the same structure of the story being told through different characters in an achronological order. Quite similar to Baccano. So similar I daresay Narita must have been influenced by Boogiepop. I think Boogiepop had strong influence on a lot of early 2000s LNs. Similar to how Index and SAO have influenced early 2010s LNs - as much as I don't like the two. Philosphical talk was hard to follow. I'm not sure what *Imaginator* is. I love how connected all the characters are. Some minor characters from the first book having a major roll in this volume was great. 
 
 ---- 
