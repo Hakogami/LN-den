@@ -3,8 +3,9 @@
 > Very likeable characters - Masaki Taniguchi was just so much more likeable as a protagonist than the protagonists of the first book. 
 I love his little character arc of going around and beating people up as Boogiepop. It'll be great to see it animated. The philosophical parts confused me a bit. I'm not sure what *Imaginator* was at the end of the day. Well I know their motives, but I couldn't match it with the dialogue from volume 2. Feels inconsistent.
 Such daring moves from this arc - a non-virgin (one who's been used for crossbreeding tests) main heroine - Orihata Aya and a casual gay dude. No wonder it took 20 years for it to get an adaptation. 
-And that gang-rape scene the author used to troll me... It wasn't a gang-rape at all. I got tricked good. Which reminds me there has been almost no ecchi in the first 3 books, which is interesting considering there is a lot of sexual tension between the characters. 
+And that gang-rape scene... It wasn't a gang-rape at all. I got tricked good. Which reminds me there has been almost no ecchi in the first 3 books, which is interesting considering there is a lot of sexual tension between the characters. 
 Its representation of Japanese use feels a lot better than modern LNs and anime. 
+Suema Kazuko is an interesting character but feels a bit unrealistic for some reason. Aside from her all the other characters have been very easy to understand. They feel real. It's also interesting how in a series called Boogiepop, how rarely you can see Boogiepop make an apperance. 
 
 
 
