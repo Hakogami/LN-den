@@ -7,6 +7,11 @@ And that gang-rape scene... It wasn't a gang-rape at all. I got tricked good. Wh
 Its representation of Japanese use feels a lot better than modern LNs and anime. 
 Suema Kazuko is an interesting character but feels a bit unrealistic for some reason. Aside from her all the other characters have been very easy to understand. They feel real. It's also interesting how in a series called Boogiepop, how rarely you can see Boogiepop make an apperance. 
 
+-----
+
+#### Rakudai Kishi no Cavalry volume 9 (LN)/ 落第騎士の英雄譚＜キャバルリィ＞９　- 12/12/18 - 307 pages
+
+> It was an okay volume. Some nice fights I guess. The quite the explicit sex scene was unexpected. I'm starting to lose interest in the series as there's no damn proper drama. It's just the main characters getting stronger and people praising them. Not to mention the general writing quality. Not sure I'll read more than 1 more volume of this. 
 
 
 -----
