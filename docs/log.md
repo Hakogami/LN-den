@@ -1,3 +1,11 @@
+
+
+#### Boogiepop in the Mirror: Pandora　(LN)/ブギーポップ・イン・ザ・ミラー　「パンドラ」 - 16/12/18 - 281 pages
+
+> Finished volume 4 of Boogiepop. That was a bittersweet ending. I didn't expect so many of the main characters to die... I can't really say I had a favorite character this volume - they were all interesting but none that really stuck out. I know these are short but they're really fast-paced too so I'm going through them really fast. This volume was narrated chronologically and was thus a lot easier to follow.  I highly doubt the anime will adapt this volume, but if they did it'd be interesting since it happens in parallel to volume 1. There are some shared characters - like Boogiepop obviously but it's mostly a story of its own. Nagi Kirima is quite integral to this story as well. Also, you really realize how old these are when the characters use fucking pagers lmao.
+
+----------
+
 #### Boogiepop vs Imaginator 2 (LN)/ブギーポップ・リターンズ　VSイマジネーターPart2 - 13/12/18 - 267 pages
 
 > Very likeable characters - Masaki Taniguchi was just so much more likeable as a protagonist than the protagonists of the first book. 
