@@ -20,3 +20,6 @@
 * Catch up to Seikai series (3 books) 
 
 = 81 books + non-Japanese books (20+) = ~100 + Unplanned + newly released books 
+
+
+In Japanese : 6 + 6 + 6 + 3 + 10 + 3 + 3 + 2 + 1 + 3 + 2 = 45 books
